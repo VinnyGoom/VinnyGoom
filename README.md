@@ -1,5 +1,6 @@
 # 👋 Oii!, eu sou o Vinicius Gomes!
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VinnyGoom)](https://github.com/anuraghazra/github-readme-stats)
 - 🎓 Estudante de Engenharia de Software
 - 💻 Apaixonado por desenvolvimento em geral
 - 🚀 Atualmente aprendendo **C#**
