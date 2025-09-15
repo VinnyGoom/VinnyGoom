@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 Oii!, eu sou o Vinicius Gomes!
 
-<!--
-**VinnyGoom/VinnyGoom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎓 Estudante de Engenharia de Software
+- 💻 Apaixonado por desenvolvimento em geral
+- 🚀 Atualmente aprendendo **C#**
+- 📫 Contato: [LinkedIn](https://linkedin.com/in/seu-perfil) | [Email](mailto:seu@email.com)
 
-Here are some ideas to get you started:
+## 🛠 Tecnologias
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Projetos em destaque
+- [Sistema de Cadastro](https://github.com/seu-usuario/projeto1)
+
