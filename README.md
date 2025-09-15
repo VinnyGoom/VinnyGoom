@@ -1,5 +1,5 @@
 # 👋 Olá! eu sou o Vinicius Gomes!
-/*Apresentação Pessoal*/
+<!-- Apresentaçõa Pessoal-->
 <div>
 <img alt="Minhas estatisticas" aling="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=VinnyGoom&show_icons=true&theme=merko">
 <img alt="Top linguagens" aling="left" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VinnyGoom&layout=compact">
